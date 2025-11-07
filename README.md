@@ -10,7 +10,9 @@
 
  A **Computação do Azure** é um serviço sob demanda que fornece recursos de computação, como discos, processadores, memória, rede e sistemas operacionais.
 
-<img  width="530" height="123" alt="Servicos-computacao1" src="https://github.com/user-attachments/assets/01d6fa06-508e-4ccd-abcc-6a0898ce29fe" />
+   <div align="center">
+   <img  width="530" height="123" alt="Servicos-computacao1" src="https://github.com/user-attachments/assets/01d6fa06-508e-4ccd-abcc-6a0898ce29fe" />
+   </div>
 <br>
 
 ### Máquinas virtuais do Azure
@@ -31,7 +33,9 @@ Os conjuntos de dimensionamento oferecem uma oportunidade de balanceamento de ca
 
 ### Conjuntos de DISPONIBILIDADE de VMs
 
-<img width="680" height="316" alt="Conjunto-disponibilidade-vm1" src="https://github.com/user-attachments/assets/528f0bb2-a567-402b-9ad7-1639afa4af6a" />
+   <div align="center">
+   <img width="680" height="316" alt="Conjunto-disponibilidade-vm1" src="https://github.com/user-attachments/assets/528f0bb2-a567-402b-9ad7-1639afa4af6a" />
+   </div>
 <br>
 
 Domínio de falha == Rack
@@ -145,7 +149,10 @@ A Rede Virtual do Azure (VNet) permite que os recursos do Azure se comuniquem un
 ### Serviços de Rede do Azure: Gateway de VPN
 Gateway de VPN é usado para enviar tráfego criptografado entre uma rede virtual do Azure e uma no local pela internet pública.
 
-<img width="723" height="185" alt="Gateway-VPN1" src="https://github.com/user-attachments/assets/a0305bad-cec4-465a-a6f1-c017ca5a6188" />
+   <div align="center">
+   <img width="723" height="185" alt="Gateway-VPN1" src="https://github.com/user-attachments/assets/a0305bad-cec4-465a-a6f1-c017ca5a6188" />
+   </div>
+
 
 <br>
 <br>
@@ -155,7 +162,9 @@ Gateway de VPN é usado para enviar tráfego criptografado entre uma rede virtua
 
 O **ExpressRoute** estende as redes locais para o Azure por meio de uma conexão privada facilitada por um provedor de conectividade.
 
-<img width="713" height="284" alt="Express-Route1" src="https://github.com/user-attachments/assets/8d17264f-90ee-470c-83ac-de96e6a5ce91" />
+   <div align="center">
+   <img width="713" height="284" alt="Express-Route1" src="https://github.com/user-attachments/assets/8d17264f-90ee-470c-83ac-de96e6a5ce91" />
+   </div>
 
 <br>
 <br>
